@@ -19,7 +19,7 @@ To enable USB support, the chip must be flashed with the following fuses using `
 
 ## Screenshot
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gili-yankovitch/attiny85-sample/main/schematic.png" height="800">
+  <img src="https://raw.githubusercontent.com/gili-yankovitch/attiny85-sample/main/schematic.png" height="700">
 </p>
 
 # About the samples project
